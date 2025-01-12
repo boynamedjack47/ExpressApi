@@ -1,5 +1,9 @@
-[
-    { "username": "user1", "password": "password1" },
-    { "username": "user2", "password": "password2" }
-  ]
-  
+const express = require('express');
+const { getToken } = require('../controllers/authController');
+
+const router = express.Router();
+
+// POST /getToken - Authenticate user and return a JWT
+router.post('/getToken', getToken);
+
+module.exports = router;
