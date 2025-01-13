@@ -6,4 +6,18 @@
       "type": "Creature",
       "rarity": "Common"
     }
+    {
+        "id": "23e92aaa-c7ac-4455-bb4c-d5242ff6331b",
+        "name": "Dragon",
+        "set": "Base Set",
+        "type": "Creature",
+        "rarity": "Rare"
+      },
+      {
+        "id": "29df63c9-7891-46cc-8be1-a42d95b83671",
+        "name": "Fireball",
+        "set": "Base Set",
+        "type": "Spell",
+        "rarity": "Legendary"
+      }
 ]
