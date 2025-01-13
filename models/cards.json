@@ -1,0 +1,9 @@
+[
+    {
+      "id": "some-uuid",
+      "name": "Example Card",
+      "set": "Base Set",
+      "type": "Creature",
+      "rarity": "Common"
+    }
+]
