@@ -50,6 +50,9 @@ project-root/
 ├── controllers/           # Business logic for handling requests
 │   ├── authController.js  # Authentication logic
 │   └── cardController.js  # Card management logic
+|
+├── middleware
+|   └── authenticateJWT.js # Create JWT tokens 
 ├── models/                # JSON files for data storage
 │   ├── cards.json         # Stores card data
 │   └── users.json         # Stores user data
