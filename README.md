@@ -58,7 +58,7 @@ project-root/
 │   └── cardRoutes.js      # Routes for card operations
 ├── .env                   # Environment variables
 ├── package.json           # Project metadata and dependencies
-└── server.js              # Entry point for the server
+└── index.js              # Entry point for the server
 
 Usage
 
